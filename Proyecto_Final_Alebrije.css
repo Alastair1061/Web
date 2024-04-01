@@ -1,0 +1,114 @@
+*{
+	font-family: Helvetica;
+}
+
+body{
+	margin: 0% 20%;
+}
+
+nav{
+	height: 30px;
+	padding: 0px 10px 0px;
+	margin: 5px 0px 17px;
+}
+.logo{
+	float: left;
+	width: 30px;
+	height: 30px;
+}
+.link{
+	float: left;
+  	margin: 10px 0px 0px 20px;
+  	color: black;
+  	font-weight: 900;
+  	font-size: 9.5px;
+  	text-transform: uppercase;
+  	text-decoration: none;
+}
+.boton{
+	float: right;
+	border-radius: 30px;
+	font-weight: bold;
+	font-size: 8px;
+	padding: 3px 8px;
+	margin: 7px 0px 0px 10px;
+}
+.iniciar{	
+	background-color: white;
+	color: black;
+	border: 2px solid black;
+}
+.registrar{
+	background-color: black;
+	color: white;
+	border: 2px solid white;
+}
+
+section{
+	overflow: hidden;
+	text-align: center;
+	color: white;
+	margin-bottom: 3%;
+	padding: 0%;
+	height: 250px;
+}
+section h1{
+	font-size: 30px;
+	font-weight: 100;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	line-height: 1.3;
+}
+section p{ 
+	font-weight: 100;
+	opacity: 0.6;
+	line-height: 1.7;
+}
+section a{ 
+	color: white; 
+}
+.pedido{
+	background-color: #D9043D;
+	border: 2px solid white;
+	border-radius: 30px;
+	color: white;
+	font-size: 10px;
+	margin-top: 30px;
+	padding: 4px 12px;
+}
+.verde{ 
+	background-color: #025939;
+	padding: 1% 21%;
+}
+.rojo{ 
+	background-color: #D9043D;
+	padding: 1%;
+	height: 100%;
+}
+.alebrije1{
+	float: left;
+	width: 50%;
+	height: 250px;
+}
+.alebrije2{
+	float: right;
+	width: 50%;
+	height: 250px;
+}
+
+hr{ 
+	margin: 4% 0;
+	width: 94%;
+}
+
+footer{ 
+	margin-left: 3%; 
+}
+footer a{ 
+	text-decoration: none;
+	padding-right: .7%; 
+}
+footer p{ 
+	font-weight: 100;
+	font-size: 14px; 
+}
